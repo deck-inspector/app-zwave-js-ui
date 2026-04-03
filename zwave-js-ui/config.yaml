@@ -1,7 +1,7 @@
 ---
-name: Z-Wave JS UI
+name: Z-Wave JS UI Garden Garage
 version: dev
-slug: zwavejs2mqtt
+slug: zwavejs2mqtt_garden 
 description: Fully configurable Z-Wave JS gateway and control panel
 url: https://github.com/hassio-addons/app-zwave-js-ui
 ingress: true
